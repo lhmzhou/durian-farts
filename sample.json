@@ -1,0 +1,16 @@
+{
+  "firstName": "Higgs",
+  "lastName": "Boson",
+  "address": {
+    "streetAddress": "Esplanade des Particules 1",
+    "city": "Meyrin",
+    "canton": "Geneva",
+    "countryCode": "Switzerland"
+  },
+  "lineOfBusiness": [
+    { "reasonCode": "SR-042", "description": "Standard Model of contemporary particle physics" }
+  ],
+  "futureUse": [
+    { "useCode": "QW-011", "description": " Validation of LHC, etc." }
+  ]
+}
